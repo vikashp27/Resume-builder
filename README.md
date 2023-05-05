@@ -25,7 +25,7 @@ The project Template can be used to build bigger projects
 
 ## Live Application URL
 
-### https://builder-resume.netlify.app/
+### https://resume-builder-wheat.vercel.app//
 
 This URL has the application deployed in
 
@@ -38,12 +38,6 @@ This URL has the application deployed in
   5.React-avatar-edit for selecting profile image for resume.
   6.React-router-dom for routing.
 
- #### Contributors :    
-  1. Shahnawaz Ahmed[Profile](https://github.com/AhmedShahnawaz).
-  2. Shashank Patil[Profile](https://github.com/shashankpatil499).
-  3. Praveen Kumar Chauhan [Profile](https://github.com/Praveen-2022).
-  4. Vikash Pratap Suryawanshi[Profile](https://github.com/vikashp27).
-  5. Apurva Raj Purohit [Profile](https://github.com/Apurvarajpurohit).
   
 
 ## Installation guide
@@ -58,7 +52,7 @@ npm install
 Now open [http://localhost:3000].
 
 
-### If something goes wrong then email me on "Praveenkumarchauhan2022@gmail.com"
+### If something goes wrong then email me on "vikashvps27@gmail.com"
 
 ##     FAQ
 
